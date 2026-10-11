@@ -13,11 +13,7 @@
 
 ## 資料來源
 
-新聞資料來源為 Google News RSS：
-
-```text
-https://news.google.com/rss?hl=zh-TW&gl=TW&ceid=TW:zh-Hant
-```
+新聞資料來源為 Google News RSS
 
 ## 技術架構
 
@@ -29,4 +25,4 @@ https://news.google.com/rss?hl=zh-TW&gl=TW&ceid=TW:zh-Hant
 - Coroutines
 
 #
-- <img width="720" height="1560" alt="０" src="https://github.com/user-attachments/assets/01489829-302b-45d6-9efd-bc32ad859327" />
+<img width="720" height="1560" alt="０" src="https://github.com/user-attachments/assets/c8fb6956-63da-41a3-8d41-bb6fcdacca8f" />
